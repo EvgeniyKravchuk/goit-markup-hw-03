@@ -173,7 +173,6 @@ p {
 
 .main-section-list {
   display: flex;
-  margin-bottom: 94px;
 }
 
 .main-section-list-item:not(:last-child) {
