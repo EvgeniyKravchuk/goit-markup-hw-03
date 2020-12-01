@@ -171,6 +171,9 @@ p {
 /*================END HERO================*/
 /*================MAIN SECTION================*/
 
+.main-section .container {
+  margin-bottom: 94px;
+}
 .main-section-list {
   display: flex;
 }
@@ -341,7 +344,7 @@ p {
 
 /*================PORTFOLIO LIST================*/
 /* BUTTONS */
-.main .container {
+.portfolio .container {
   flex-direction: column;
   margin-top: 94px;
   margin-bottom: 64px;
